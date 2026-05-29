@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258606384154",
+    "project_id": "huzzlers-ef974",
+    "storage_bucket": "huzzlers-ef974.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258606384154:android:9aab702e5ad6a1243b7da3",
+        "android_client_info": {
+          "package_name": "com.huzzlers.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNGSkguDCO69FdgpsxW_xUh3RrFL2YjkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

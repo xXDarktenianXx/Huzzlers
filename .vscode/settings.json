@@ -1,0 +1,12 @@
+{
+  "java.import.exclusions": [
+    "**/node_modules/**",
+    "**/android/build/**",
+    "**/android/**"
+
+  ],
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/android/**":false
+  }
+}
